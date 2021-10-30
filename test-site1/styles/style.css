@@ -1,12 +1,12 @@
 html {
-  background-color: : #00539F;
+  /* background-color:  #00539F; */
 }
 p , li {
     font-size: 16px;
    
-    color: blue;
-    /*font-family: 'Tangerine'; */
-    font-family:  'Palette Mosaic';
+    /* color: blue; */
+    /* font-family: 'Tangerine';  */
+    /* font-family:  'Palette Mosaic'; */
   }
 
 h1 {
